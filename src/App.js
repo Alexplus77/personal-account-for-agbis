@@ -1,12 +1,12 @@
-import {PersonalAccountPage} from "pages/PersonalAccountPage";
-import './App.css';
+import { PersonalAccountPage } from "pages/PersonalAccountPage";
+import "./App.css";
 
-const App=()=> {
+const App = () => {
   return (
     <div className="App">
-<PersonalAccountPage/>
+      <PersonalAccountPage />
     </div>
   );
-}
+};
 
 export default App;
