@@ -1,6 +1,6 @@
 {
   "name": "personal-account-for-agbis",
-  "homepage": "https://github.com/alexplus77/alexplus77.github.io",
+  "homepage": "https://alexplus77.github.io/personal-account-for-agbis",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +22,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI=false && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
