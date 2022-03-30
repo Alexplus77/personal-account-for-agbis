@@ -1,0 +1,6 @@
+.containerPage{
+    display: grid;
+    justify-self: center;
+    width: 100%;
+    bottom: 0;
+}

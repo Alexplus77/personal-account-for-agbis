@@ -1,0 +1,8 @@
+.headerContainer{
+    width: 100%;
+    border-bottom: 2px black solid;
+    height: fit-content;
+}
+.logo{
+    padding: 10px;
+}

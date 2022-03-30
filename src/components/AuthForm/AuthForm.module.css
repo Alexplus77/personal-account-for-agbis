@@ -1,0 +1,14 @@
+.iconQuestions{
+    justify-self: right;
+    font-size: 25px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.iconQuestions:hover{
+    transform: scale(1.3);
+}
+.btnSubmit{
+    width: 100%;
+    background-color: #343333;
+    color: white;
+}

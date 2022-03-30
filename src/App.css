@@ -1,0 +1,22 @@
+body{
+  display: grid;
+  justify-items: center;
+  left: 0;
+  bottom: 0;
+}
+
+.App{
+  display: grid;
+  width: 1300px;
+  background-color: rgba(226, 224, 224, 0.59);
+  height: 100%;
+}
+.containerForm{
+  display: grid;
+  justify-self: center;
+  border: 1px black solid;
+  border-radius: 5px;
+  height: fit-content;
+  padding: 20px;
+  background-color:  #e2e0e0;
+}
