@@ -49,7 +49,7 @@ export const AuthForm = () => {
         />
       </Form.Item>
       <Form.Item
-        name="password"
+        name="pwd"
         rules={[
           {
             required: true,
@@ -68,7 +68,6 @@ export const AuthForm = () => {
           <Checkbox>Remember me</Checkbox>
         </Form.Item>
       </Form.Item>
-
       <Form.Item>
         <Button htmlType="submit" className={s.btnSubmit}>
           Log in
